@@ -1,2 +1,4 @@
 CONFUNC.sas program in this I have used a function called PROC FCMP. It is a user defined function , This is something smiliar to a macro call , but the scope of PROC FCMP are widely used in data steps and repetative calculation procedure. 
 The intially setup of proc fcmp is by writing a proc fcmp step and then calling the proc fcmp step the confunc program i worked on is calling the proc fcmp function.
+GITHUBPPT talks about my presentation to interns and traning group how to link github with sas studio, creating a repository, cloning repository, making changes to code, how to see the reflected changes made to the code. 
+SDTMBUILDER.sas program helps to create a final sdtm dataset this code can be implemented to any of the 33 domains. Regular updates are made to the code based on the requirements
