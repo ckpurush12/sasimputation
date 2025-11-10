@@ -1,0 +1,2 @@
+CONFUNC.sas program in this I have used a function called PROC FCMP. It is a user defined function , This is something smiliar to a macro call , but the scope of PROC FCMP are widely used in data steps and repetative calculation procedure. 
+The intially setup of proc fcmp is by writing a proc fcmp step and then calling the proc fcmp step the confunc program i worked on is calling the proc fcmp function.
